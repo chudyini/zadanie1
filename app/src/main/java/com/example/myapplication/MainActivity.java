@@ -1,4 +1,4 @@
-package com.example.sigmowemobilki;
+package com.example.myapplication;
 
 import android.os.Bundle;
 
